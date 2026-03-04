@@ -7,7 +7,7 @@ export default function Page() {
         <p className="p">Abonnement pour les salles. La salle propose SEAO à ses clients particuliers.</p>
       </div>
       <div className="card">
-        <p className="p" style={maxWidth: "none"}>
+        <p className="p" style={{ maxWidth: "none" }}>
           Ceci est une page vitrine (public). Le contenu est modifiable facilement.
         </p>
       </div>
