@@ -1,5 +1,6 @@
 # SEAO MVP (Front-end scaffold)
-
+ test deploy
+ 
 This project is a **starter scaffold** (Next.js App Router) that matches the SEAO styling direction:
 - Public site pages (Home, Pricing, About, Contact, Features)
 - Sign-in page (placeholder)
